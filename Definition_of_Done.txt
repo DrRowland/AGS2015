@@ -1,7 +1,7 @@
 Work is "Ready to Ship" (with regards to the goals of this sprint)
 All acceptance criteria passed
 Work is committed to the repositiory
-All regression tests past (nothing has been broken)
+All regression tests are passed (nothing has been broken)
 Includes new regression tests for itself (add these to the list)
-Work is committed to the repositiory
+
 
