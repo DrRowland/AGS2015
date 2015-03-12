@@ -11,6 +11,7 @@ Link to Scrum in 10mins Video: <a href="http://www.youtube.com/watch?v=XU0llRlty
 (Note, we won't be using his software, but it's a great introduction),
 and a Kanban addendum: <a href="http://www.youtube.com/watch?v=R8dYLbJiTUE">here</a>.
 
+Link to Dynamic Git Crib Sheet: <a href="http://ndpsoftware.com/git-cheatsheet.html">here</a>.
 </pre>
 * <a href="https://github.com/LincsAGS1/">LincsAGS1</a> and
 <a href="https://github.com/LincsAGS1/Blueberry/graphs/contributors">Contributors</a><p>
